@@ -7,7 +7,7 @@
 <groupId>class-Modified.gav-Original.metadata-true.uberjar-false.lucid</groupId>
 <artifactId>evil.morty</artifactId>
 <version>12657130690</version>
-
+<packaging>war</packaging>
 
 <dependencies>
 <dependency>

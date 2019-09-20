@@ -7,7 +7,7 @@
 <groupId>class-Random.gav-Original.metadata-false.uberjar-true.eloquent</groupId>
 <artifactId>snuffles</artifactId>
 <version>19578738530</version>
-
+<packaging>war</packaging>
 
 <dependencies>
 <dependency>

@@ -7,7 +7,7 @@
 <groupId>class-Original.gav-Original.metadata-true.uberjar-false.gifted</groupId>
 <artifactId>maggie.simpson</artifactId>
 <version>110393360</version>
-
+<packaging>war</packaging>
 
 <dependencies>
 <dependency>

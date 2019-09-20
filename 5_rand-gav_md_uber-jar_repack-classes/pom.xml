@@ -7,7 +7,7 @@
 <groupId>class-Random.gav-Original.metadata-true.uberjar-true.infallible</groupId>
 <artifactId>krusty.the.clown</artifactId>
 <version>16682491900</version>
-
+<packaging>war</packaging>
 
 <dependencies>
 <dependency>

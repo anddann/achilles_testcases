@@ -7,7 +7,7 @@
 <groupId>class-Random.gav-Original.metadata-true.uberjar-true.jovial</groupId>
 <artifactId>charles.montgomery.burns</artifactId>
 <version>19144832560</version>
-
+<packaging>war</packaging>
 
 <dependencies>
 <dependency>

@@ -1,5 +1,5 @@
 #!/bin/bash
-export DEPCMD="mvn org.owasp:dependency-check-maven:check"
+export DEPCMD="mvn org.owasp:dependency-check-maven:check -Dformat=csv"
 echo "DEPCM is"
 echo $DEPCMD
 
